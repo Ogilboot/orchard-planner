@@ -30,7 +30,7 @@ function Drop(){
 
 function dragOver(e){
     e.preventDefault();
-    this.style.border = "2px dotted cyan";
+    this.style.border = "2px dotted black";
 }
 
 function dragEnter(e){
